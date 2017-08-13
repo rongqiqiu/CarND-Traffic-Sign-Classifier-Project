@@ -91,6 +91,8 @@ Here are five German traffic signs that I found on the web:
 ![alt text][new1] ![alt text][new2] ![alt text][new3] 
 ![alt text][new4] ![alt text][new5]
 
+
+
 ####2. Discuss the model's predictions on these new traffic signs and compare the results to predicting on the test set. At a minimum, discuss what the predictions were, the accuracy on these new predictions, and compare the accuracy to the accuracy on the test set (OPTIONAL: Discuss the results in more detail as described in the "Stand Out Suggestions" part of the rubric).
 
 Here are the results of the prediction:
